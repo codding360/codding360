@@ -1,30 +1,74 @@
-### 👋 Hi there, I'm Marat Sharshenaliev!
+### 👋 Hi, I'm Marat Sharshenaliev
 
----
+Full-stack web developer focused on **modern web applications, MVPs, and scalable product architecture**.  
+I build fast, pragmatic solutions with real users in mind.
 
 ![](https://komarev.com/ghpvc/?username=MaratSharshenaliev&color=fb4362)
 
-<h3>When I code, I rely on</h3>
+---
+
+## 🧠 Tech Stack I use in practice
+
+### Frontend
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-005C5C?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-4B8BBE?style=flat-square&logo=sqlalchemy&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="Celery" src="https://img.shields.io/badge/-Celery-37813B?style=flat-square&logo=celery&logoColor=white" />
-  <img alt="pytest" src="https://img.shields.io/badge/-pytest-0A6D38?style=flat-square&logo=pytest&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-2088FF?style=flat-square&logo=github&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
+
+### Backend & APIs
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/-REST_API-005571?style=flat-square" />
+</p>
+
+### Auth, CMS & Integrations
+<p>
+  <img alt="Clerk" src="https://img.shields.io/badge/-Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+  <img alt="Sanity" src="https://img.shields.io/badge/-Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" />
+</p>
+
+### Databases & Tooling
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I focus on
+
+- Building **MVPs and production-ready web apps**
+- Clean **frontend + backend separation**
+- Authentication & organizations (SSO, RBAC)
+- Mobile-first UX (90% mobile users)
+- Using **ready solutions** to ship faster (Clerk, CMS, APIs)
+
+---
+
+## 🧩 How I work
+
+- Pragmatic, not over-engineered
+- Prefer **working products over theory**
+- Combine custom logic with proven libraries
+- Think in terms of **business value & user flow**
+
+---
+
+## 🌱 Current interests
+
+- SaaS & internal tools
+- Catalogs & marketplaces
+- Crowdfunding & social platforms
+- Open-source & community projects
+
+---
+
+## 📫 Contact
+
+Open to collaboration, startups, and meaningful projects.  
+Feel free to reach out via GitHub.
